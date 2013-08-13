@@ -1,0 +1,70 @@
+/*
+ *
+ *	NOTE: This version won't run, it's just for reference.
+ *
+*/
+Moon Pie.
+
+by Cullin Moran :: https://github.com/culmor30
+This recipe takes the user's weight (in pounds) as input, and prints their weight on the moon.
+Known to work with the Java Chef-Interpreter by @joostrijneveld :: https://github.com/joostrijneveld/Chef-Interpreter
+Known NOT to work with Acme::Chef (Perl interpreter).
+
+Ingredients.
+//(note: lower case letters get 100 added later in a loop)
+//The user's weight gets divided by 6
+6 ml vanilla extract
+
+//Moon
+77 g salt
+11 heaped teaspoons sugar
+10 level cups flour
+
+//Weight
+87 ml eggs
+1 ml cooking oil
+5 ml water
+3 ml vegetable shortening
+4 cups vanilla icing
+16 ml green tea extract
+
+//Newline character
+10 tablespoons aspartame
+
+//Used to add 100 to the lower-case letters
+100 teaspoons butter
+
+//Colon
+58 ml melted chocolate
+
+//Used for input
+1 cup milk
+
+//Space character
+32 pinches black pepper
+
+//Loop iterator
+6 tablespoons moon rock
+
+Cooking time: 1 hour.
+
+Pre-heat oven to 175 degrees Celsius.
+
+Method.
+//Add a newline character at the end of the output for cleanliness
+Put aspartame into the mixing bowl. Liquefy contents of the mixing bowl. Pour contents of the mixing bowl into the baking dish. Clean mixing bowl.
+
+//Get input and calculates the user's weight, adds it to the top of the baking dish for output
+Take milk from refrigerator. Put milk into the mixing bowl. Divide vanilla extract. Pour contents of the mixing bowl into the baking dish. Clean mixing bowl.
+
+//Adds 100 to all lower-case letters and stores them back in their original variables
+Put sugar into the mixing bowl. Put flour into the mixing bowl. Put cooking oil into the mixing bowl. Put water into the mixing bowl. Put vegetable shortening into the mixing bowl. Put vanilla icing into the mixing bowl. Put green tea extract into the mixing bowl. Crush the moon rock. Add butter. Stir for 7 minutes. Stab the moon rock until crushed. Fold green tea extract into mixing bowl. Fold vanilla icing into mixing bowl. Fold vegetable shortening into mixing bowl. Fold water into mixing bowl. Fold cooking oil into mixing bowl. Fold flour into mixing bowl. Fold sugar into mixing bowl.
+
+//Adds "Weight: " to the top of the baking dish for output
+Put black pepper into the mixing bowl. Put melted chocolate into the mixing bowl. Put green tea extract into the mixing bowl. Put vanilla icing into the mixing bowl. Put vegetable shortening into the mixing bowl. Put water into the mixing bowl. Put cooking oil into the mixing bowl. Put eggs into the mixing bowl. Liquefy contents of the mixing bowl. Pour contents of the mixing bowl into the baking dish. Clean mixing bowl.
+
+//Adds "(newline)Moon " to the top of the baking dish for output
+Put black pepper into the mixing bowl. Put flour into the mixing bowl. Put sugar into the mixing bowl. Put sugar into the mixing bowl. Put salt into the mixing bowl. Put aspartame into the mixing bowl. Liquefy contents of the mixing bowl. Pour contents of the mixing bowl into the baking dish.
+
+//Prints out the content of the first baking dish, from top to bottom.
+Serves 1.
