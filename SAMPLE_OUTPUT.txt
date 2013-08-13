@@ -1,0 +1,7 @@
+//Since it can be a real pain to get Chef programs running on your own machine, I've provided some sample output so you can see what a typical interaction with this program looks like.
+
+$ java interpreter/Chef "../../../Moon Pie/moon-pie.chef"
+160
+
+Moon Weight: 26
+
